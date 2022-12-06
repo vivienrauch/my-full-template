@@ -1,6 +1,12 @@
+# My "my-full-template" project
+
+This is a practice project for my studies at [Code Institute](https://codeinstitute.net).
+I use **HTML** and **CSS** in it to practice linking, adding content, make it responsive and aesthetically pleasing.
+
+
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
-Welcome USER_NAME,
+Welcome vivienrauch,
 
 This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
 
